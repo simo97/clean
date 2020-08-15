@@ -5,7 +5,7 @@ files:
     destination: /home/ec2-user/clean
 hooks:
     BeforeInstall:
-      - location: scripts/install_depedencies
+      - location: scripts/install_dependancies
         timeout: 300
         runas: root
     ApplicationStop:
