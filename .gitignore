@@ -5,7 +5,7 @@
 !.elasticbeanstalk/*.global.yml
 db.sqlite3
 __pycache__/*
-
+.DS_Store
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
